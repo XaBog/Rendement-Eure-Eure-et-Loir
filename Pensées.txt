@@ -6,4 +6,8 @@ On s'intéresse uniquement à:
 - le blé tendre d'hiver et épeautre
 - 2000-2020
 
-Il s'agira alors d'analyser les différentes variables météorologiques au regard des rendements historiques pour trouver (ou retrouver) les facteurs pouvant expliquer les rendements historiques les plus faibles.
+Il s'agira alors d'analyser les différentes variables météorologiques au regard des rendements historiques 
+pour trouver (ou retrouver) les facteurs pouvant expliquer les rendements historiques les plus faibles.
+
+Premières impressions : d'après la Data de l'Agreste, pas de claire tendance sur plusieurs années, uniquement des points isolés. Je vais donc essayer de chercher des corrélations
+tout en restant attentif au sens de celles-ci, pour éviter de trouver des justifications qui n'ont pas lieu d'être.
