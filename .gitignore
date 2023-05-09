@@ -21,3 +21,14 @@ communes/communes-descriptif.txt
 communes/LICENCE.txt
 data_eure.xlsx
 images/rendements.png
+images/précipitations.png
+era5.csv
+era5_eure.xlsx
+~$era5_eure.xlsx
+courbes/Moyenne des précipitations sur l'année.png
+courbes/R_min.png
+courbes/ssrd mean.png
+courbes/Température maximale.png
+courbes/Température minimale.png
+courbes/Température.png
+courbes/ws10_mean.png

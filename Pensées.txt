@@ -11,3 +11,8 @@ pour trouver (ou retrouver) les facteurs pouvant expliquer les rendements histor
 
 Premières impressions : d'après la Data de l'Agreste, pas de claire tendance sur plusieurs années, uniquement des points isolés. Je vais donc essayer de chercher des corrélations
 tout en restant attentif au sens de celles-ci, pour éviter de trouver des justifications qui n'ont pas lieu d'être.
+
+Maintenant que nous avons vu à quoi ressemblait l'évolution de la prod, regardons comment ont évolué les autres grandeurs (météo etc)
+
+Les précipitations semblent un peu corrélées, regardons la température
+
