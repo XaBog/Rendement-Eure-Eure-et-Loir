@@ -1,8 +1,6 @@
-~$data_sorted.xlsx
-agreste_clean.csv
-data_sorted.xlsx
 
-ERA5_data.parquet
+
+
 cog/arrondissement2021.csv
 cog/canton2021.csv
 
@@ -19,12 +17,10 @@ communes/communes-20220101.shp
 communes/communes-20220101.shx
 communes/communes-descriptif.txt
 communes/LICENCE.txt
-data_eure.xlsx
+
 images/rendements.png
 images/précipitations.png
-era5.csv
-era5_eure.xlsx
-~$era5_eure.xlsx
+
 courbes/Moyenne des précipitations sur l'année.png
 courbes/R_min.png
 courbes/ssrd mean.png
@@ -32,3 +28,18 @@ courbes/Température maximale.png
 courbes/Température minimale.png
 courbes/Température.png
 courbes/ws10_mean.png
+courbes/tmin france 2016.png
+courbes/tmin france 2015.png
+courbes/Tmin 2016.png
+courbes/Tmin 2015.png
+courbes/somme lineaire.png
+courbes/precipitation 2016.png
+courbes/precipitation 2015.png
+courbes/eure et loir.png
+courbes/Comparaison rendement vs nombre de jours de gel par an.png
+courbes/Comparaison rendement vs nombre de jours de gel en fin d'hiver printemps.png
+courbes/comparaison eure.png
+courbes/all 2016 france.png
+courbes/all 2015 france.png
+courbes/2016.png
+courbes/2015.png
